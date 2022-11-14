@@ -1,0 +1,17 @@
+#dropZone {
+    border: 3px dashed #0088cc;
+    padding: 50px;
+    width: 700px;
+    margin-top: 20px;
+}
+
+#files {
+    border: 1px dotted #0088cc;
+    padding: 20px;
+    width: 200px;
+    display: none;
+}
+
+#error {
+    color: red;
+}
